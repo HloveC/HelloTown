@@ -3,3 +3,7 @@ Feature1()
   fait des bulles;
   et des bulles;
 }
+Feature2()
+{
+  ajoutée depuis le serveur GitHub;
+}
