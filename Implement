@@ -8,5 +8,9 @@ Feature2()
   ajoutée depuis le serveur GitHub;
   voilà la proposition du serveur;
   mais maintenant c'est plus mieux;
+<<<<<<< HEAD
   hoplà, un conflit de chez moi;
+=======
+  et puis on fait joujou;
+>>>>>>> cf23dd665c93f3634abee10e0a22921c368be816
 }
