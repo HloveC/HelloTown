@@ -5,8 +5,6 @@ Feature1()
 }
 Feature2()
 {
-  ajoutée depuis le serveur GitHub;
-  voilà la proposition du serveur;
+  modifié en local sur la branche yolo;
   mais maintenant c'est plus mieux;
-  hoplà, un conflit de chez moi; Réslu !;
 }
